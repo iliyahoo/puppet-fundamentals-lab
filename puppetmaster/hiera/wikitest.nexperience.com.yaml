@@ -1,0 +1,8 @@
+---
+classes:
+  - linux
+  - mediawiki
+mediawiki::wikisitename: wikitest
+mediawiki::wikimetanamespace: WikiTest
+mediawiki::wikiserver: http://172.31.0.203
+mediawiki::wikidbname: my_wiki
